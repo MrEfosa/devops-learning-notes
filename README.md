@@ -1,6 +1,5 @@
 # My DevOps Learning Journal
-
-Hi! 👋 I'm learning DevOps through the TechWorld with Nana Bootcamp.  
+  
 Here I'll keep all my notes, small practice projects, and reflections.
 
 ## My Current Progress
@@ -10,3 +9,13 @@ Here I'll keep all my notes, small practice projects, and reflections.
 - [ ] Jenkins
 - [ ] Terraform
 - [ ] Kubernetes
+
+---
+
+## 🏆 Goal
+To become a proficient DevOps Engineer by mastering CI/CD, Cloud, Infrastructure as Code, and Containerization — through consistent practice and documentation.
+
+---
+
+📅 **Started:** October 2025  
+🧠 **Bootcamp:** TechWorld with Nana  
