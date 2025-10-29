@@ -34,3 +34,29 @@ git config --global user.email "you@example.com"
 git --version
 ```
 ### 🔹 Start a New Repositoery
+```bash
+git init                        # Create a new Git repository
+git status                      # Check the current repo status
+git add .                       # Stage all changes
+git commit -m "Initial commit"  # Save the changes
+git push                        # Push cahnges to Github
+```
+### 🔹 Branching and Merging
+```
+git branch feature1             # Create a new branch
+git checkout feature1           # Switch to branch
+git merge feature1              # Merge branch into main
+git branch -d feature1          # Delete the branch
+```
+## 🧩 GitLab SSH Setup & Repo Clone
+
+✅ Successfully cloned `git@gitlab.com:mrefosa-group/test_project.git`  
+🎯 Verified SSH connection worked  
+🗂️ Repo files downloaded correctly
+
+**Useful commands used:**
+```bash
+ssh-keygen -t ed25519 -C "you@example.com"
+ssh-add ~/.ssh/id_ed25519
+ssh -T git@gitlab.com
+git clone git@gitlab.com:mrefosa-group/test_project.git
