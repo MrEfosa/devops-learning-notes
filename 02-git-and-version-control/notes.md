@@ -53,6 +53,7 @@ git branch -d feature1          # Delete the branch
 ✅ Successfully cloned `git@gitlab.com:mrefosa-group/test_project.git`  
 🎯 Verified SSH connection worked  
 🗂️ Repo files downloaded correctly
+✅ Successfully made changes to file, and pushed it to gitlab 
 
 **Useful commands used:**
 ```bash
