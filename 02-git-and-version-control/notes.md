@@ -45,6 +45,7 @@ git push                        # Push cahnges to Github
 ```
 git branch feature1             # Create a new branch
 git checkout feature1           # Switch to branch
+git checkout -b feature1        # Create branch and switch to branch
 git merge feature1              # Merge branch into main
 git branch -d feature1          # Delete the branch
 ```
