@@ -65,7 +65,7 @@ ssh-add ~/.ssh/id_ed25519
 ssh -T git@gitlab.com
 git clone git@gitlab.com:mrefosa-group/test_project.git
 ```
-##Best Practices - 1
+## Best Practices - 1
 ### Commit-related best practices:
 - Use descriptive and meaningful commit messages
 - Commit in relatively small chunks
@@ -75,7 +75,7 @@ git clone git@gitlab.com:mrefosa-group/test_project.git
 - Keep your feature/bugfix branch up-to-date with remote master and/or develop branch. So pull often from remote git repository
 - Branches shouldn’t be open for too long or master branch should be merged into your feature/bugfix branch often
 
-##Best Practices - 2
+## Best Practices - 2
 - Don’t "git push" straight to main branch
 - Use -force push carefully! Do NOT force push into master or develop branches or better only when working alone in a branch
 - Create a separate branch for each feature or bugfix and name the branch with prefix “feature/xx” and “bugfix/xxx” respectively
