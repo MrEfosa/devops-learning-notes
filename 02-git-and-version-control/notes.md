@@ -47,6 +47,7 @@ git branch feature1             # Create a new branch
 git checkout feature1           # Switch to branch
 git checkout -b feature1        # Create branch and switch to branch
 git merge feature1              # Merge branch into main
+git pull -r                     # Fetches the latest changes from the remote and merge them into your current branch
 git branch -d feature1          # Delete the branch
 ```
 ## 🧩 GitLab SSH Setup & Repo Clone
