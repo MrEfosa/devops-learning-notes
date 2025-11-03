@@ -50,15 +50,15 @@ sudo apt update
 
 ### 🧩 Tools & Concepts Covered
 
-☁️ DigitalOcean Droplets
-🧰 Gradle Build Tool
-💻 SSH & SCP
-🧑‍💻 Linux User Management
-🚀 Java Application Deployment
+- ☁️ DigitalOcean Droplets
+- 🧰 Gradle Build Tool
+- 💻 SSH & SCP
+- 🧑‍💻 Linux User Management
+- 🚀 Java Application Deployment
 
 ### 🧠 Key Takeaways
 
-Understood how cloud VMs (Droplets) serve as deployable infrastructure.
-Learned to securely connect and transfer files using SSH & SCP.
-Practiced managing users and permissions on a Linux server.
-Experienced the full flow from local build → cloud deployment.
+- Understood how cloud VMs (Droplets) serve as deployable infrastructure.
+- Learned to securely connect and transfer files using SSH & SCP.
+- Practiced managing users and permissions on a Linux server.
+- Experienced the full flow from local build → cloud deployment.
