@@ -63,6 +63,9 @@ npm start
 | `git push`          | Push local commits to remote repository        |
 | `java -jar <name of jar file>`| Run the java application             |
 
+## Why should you know these Build Tools as a DevOps engineer?
+- Help developers building the application, because you know where and how it will run on deployment servers
+- You need to configure the build automation tool or CI/CD Pipeline, like execute tests on the build servers, build and package into Docker Image, run the application on server
 
 ## 🧠 Lessons Learned
 - Build Tools like Maven and Gradle automate compiling, testing, and packaging applications.
