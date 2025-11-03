@@ -34,13 +34,3 @@ IaaS is essential for DevOps because it allows you to:
 
 ## ☁️ 3️⃣ Getting Started with DigitalOcean
 
-### 🪜 Step-by-Step Setup:
-
-1. **Create a DigitalOcean Account**
-   - Visit [https://www.digitalocean.com](https://www.digitalocean.com)
-   - Enable 2FA and add billing info.
-
-2. **Install and Configure `doctl` (DigitalOcean CLI)**
-   ```bash
-   sudo snap install doctl
-   doctl auth init
