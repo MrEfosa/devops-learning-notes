@@ -56,8 +56,12 @@ npm start
 | `gradle clean`      | Remove old build files                         |
 | `npm install`       | Install Node.js dependencies                   |
 | `npm start`         | Start a Node.js application                    |
+| `npm stop`          | Stop the application                           |
+| `npm test`          | Run the tests                                  |
+| `npm publish`       | Publish the artifacts                          |
 | `git pull`          | Fetch and merge changes from remote repository |
 | `git push`          | Push local commits to remote repository        |
+| `java -jar <name of jar file>`| Run the java application             |
 
 
 ## 🧠 Lessons Learned
