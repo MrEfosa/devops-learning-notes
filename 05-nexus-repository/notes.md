@@ -48,10 +48,7 @@ run_as_user="nexus"
 
 ## 🧠 Start Nexus as a Service
 ```bash
-sudo ln -s /opt/nexus/bin/nexus /etc/init.d/nexus
-sudo systemctl enable nexus
-sudo systemctl start nexus
-sudo systemctl status nexus
+ /opt/nexus/bin/nexus start
 ```
 ### Access Nexus in your browser:
 👉 ```http://<your-droplet-ip>:8081```
